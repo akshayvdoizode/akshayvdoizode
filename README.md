@@ -5,10 +5,9 @@
  <img src="https://komarev.com/ghpvc/?username=akshayvdoizode" alt="" />
  
 - 🔭 I’m currently working on MERN STACK 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning MongoDB
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn as much as js and python...
-- ⚡ Fun fact: I love to Play football!! 🤣
 
 <img align="center" height="150vh" width="350px" padding="20px" src="https://github-readme-stats.vercel.app/api?username=akshayvdoizode&show_icons=true&theme=radical"/>
 
@@ -38,8 +37,5 @@
 
 <br />
 
-[website]: https://justinnn07.netlify.app
-[twitter]: https://twitter.com/justinnn_06
-[instagram]: https://instagram.com/justinnn_.07
-[linkedin]: https://www.linkedin.com/in/justin-varghese-8704a91b3/
-[StackOverFlow]: https://stackoverflow.com/users/14352405/justin-varghese
+[linkedin]:https://www.linkedin.com/in/akshay-v-doizode-074895b4/
+
