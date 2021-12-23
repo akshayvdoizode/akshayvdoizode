@@ -4,8 +4,8 @@
 
  <img src="https://komarev.com/ghpvc/?username=akshayvdoizode" alt="" />
  
-- 🔭 I’m currently working on MERN STACK 
-- 🌱 I’m currently learning MongoDB
+- 🔭 I’m currently working on React (Typescript)
+- 🌱 I’m currently learning Golang (ent)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn as much as js and python...
 
@@ -24,7 +24,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Firebase" width="26px" src="https://miro.medium.com/max/300/1*R4c8lHBHuH5qyqOtZb3h-w.png" />
 <img align="left" alt="Java" width="26px" src="https://sdtimes.com/wp-content/uploads/2018/03/jW4dnFtA_400x400.jpg" />
-
+<img align="left" alt="Go" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"/>
 <img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
 <br />
 
