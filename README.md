@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on React (Typescript)
 - 🌱 I’m currently learning Golang (ent)
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn as much as js and python...
+- 🥅 2022 Goals: Learn as much as Golang and Graphql
 
 <img align="center" height="150vh" width="350px" padding="20px" src="https://github-readme-stats.vercel.app/api?username=akshayvdoizode&show_icons=true&theme=radical"/>
 
